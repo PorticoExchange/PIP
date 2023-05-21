@@ -5,11 +5,11 @@ PIP stand for Portico Improvement Proposal. They exist to document what MUST, wh
 
 - PIP-01: HTLC and Atomic Swap principle
 
-- PIP-02: Sidechains 
+- PIP-02: Sidechains (Sequentia and Liquid)
 
-- PIP-03: OP_RETURN layers
+- PIP-03: OP_RETURN layers (RGB and Omnibolt)
 
-- PIP-04: Taproot layers 
+- PIP-04: Taproot layers  (RGB and Taproot Assets)
 
 - PIP-05: Core Lightning as motto
 
