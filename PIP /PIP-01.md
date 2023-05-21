@@ -18,5 +18,3 @@ In this example below show how works our protocol in JSON
 "block":
 "hex":
 }]
-
-`´`
