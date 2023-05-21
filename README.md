@@ -3,7 +3,7 @@ PIP (Portico Improvement Proposal) and Specs
 
 PIP stand for Portico Improvement Proposal. They exist to document what MUST, what SHOULD and what MAY be implemented by Portico Exchange
 
-- PIP-01: HTLC and Atomic Swap principle
+- [PIP-01: HTLC and Atomic Swap principle](https://github.com/PorticoExchange/PIP/blob/main/PIP%20/PIP-01.md)
 
 - PIP-02: Sidechains (Sequentia and Liquid)
 
