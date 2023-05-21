@@ -27,6 +27,8 @@ PIP stand for Portico Improvement Proposal. They exist to document what MUST, wh
 
 - PIP-12: Price Feed with Hypercore
 
+- PIP-13: Using BIP-199 for Bitcoin Finance
+
 # License
 
 MIT and Public Domain
