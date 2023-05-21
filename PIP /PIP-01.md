@@ -18,8 +18,4 @@ In this example below show how works our protocol in JSON
 "tx": xxxx
 "block":xxxx [target when open or close channel]
 "hex": xxxxx
-}
-  ],
-  ...
-}
-```
+},
