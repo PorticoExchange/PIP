@@ -29,6 +29,10 @@ PIP stand for Portico Improvement Proposal. They exist to document what MUST, wh
 
 - PIP-13: Using BIP-199 for Bitcoin Finance
 
+# Contribution
+
+Any people can make new proposa. Only open PR
+
 # License
 
 MIT and Public Domain
