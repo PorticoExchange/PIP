@@ -11,11 +11,12 @@ In this example below show how works our protocol in JSON
 
 ``` json
 {
-"input": [OP_SWAP OP_PUSHBYTE OP_PUSH]
-"output": [OP_CHECKSIG] 
-"output type": [P2PKH / P2STR / P2SH-P2WPKH / P2WPKH]
-"script": [HASH OP]
-"tx": xxxx
-"block":[[xxxx [target when open or close channel]]
-"hex": [xxxxx]
+["input": OP_SWAP OP_PUSHBYTE OP_PUSH]
+["output": OP_CHECKSIG] 
+["output type": P2PKH / P2STR / P2SH-P2WPKH / P2WPKH]
+["script": HASH OP]
+["tx": xxxx]
+["block":xxxx [target when open or close channel]
+"hex": xxxxx]
 },
+],
