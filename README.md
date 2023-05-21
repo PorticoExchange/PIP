@@ -23,6 +23,10 @@ PIP stand for Portico Improvement Proposal. They exist to document what MUST, wh
 
 - PIP-10: Fabric
 
+- PIP-11: DLCs
+
+- PIP-12: Price Feed with Hypercore
+
 # License
 
 MIT and Public Domain
