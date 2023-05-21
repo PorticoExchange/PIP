@@ -19,7 +19,7 @@ PIP stand for Portico Improvement Proposal. They exist to document what MUST, wh
 
 - PIP-08: Ark
 
-- PIP-09: Fedimint/Ecash
+- PIP-09: Fedimint/Cashu (Ecash)
 
 - PIP-10: Fabric
 
