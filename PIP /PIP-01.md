@@ -9,7 +9,7 @@ Portico Exchange works using HTLC (Hashed TimeLock) present on Lightning Network
 
 In this example below show how works our protocol in JSON
 
-```
+``` json
 {
 "input": OP_SWAP OP_PUSHBYTE OP_PUSH
 "output": OP_CHECKSIG 
