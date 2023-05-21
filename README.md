@@ -15,7 +15,13 @@ PIP stand for Portico Improvement Proposal. They exist to document what MUST, wh
 
 - PIP-06: Drivechains 
 
-- PIP-07: Softchain 
+- PIP-07: Softchain/Statechains/Spacechain
+
+- PIP-08: Ark
+
+- PIP-09: Fedimint/Ecash
+
+- PIP-10: Fabric
 
 # License
 
