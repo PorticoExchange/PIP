@@ -4,6 +4,14 @@
 
 Portico Exchange works using HTLC (Hashed TimeLock) present on Lightning Network as default, we use this main principle around protocol for provider atomic transactions between layers and sidechains in mode trustless be running our client, using Web UI or simple doing transactions on Portico wallet app
 
+# Why use Lightning Network?
+
+We use Lightning Network, 'cause is the layer-2 more used around world and have more network effect
+
+# Taproot as motivation
+
+In the Exchange we use Taproot application for accelerate transaction between peers
+
 
 # How works
 
@@ -19,3 +27,4 @@ In this example below show how works our protocol in JSON
 ["block":"xxxx target when open or close channel"]
 ["hex": "xxxxx"]
 },
+
