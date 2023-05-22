@@ -12,6 +12,9 @@ We use Lightning Network, 'cause is the layer-2 more used around world and have 
 
 In the Exchange we use Taproot application for accelerate transaction between peers
 
+# Glossary
+
+- `tx`: transaction on timechain
 
 # How works
 
@@ -24,7 +27,6 @@ In this example below show how works our protocol in JSON
 ["output type": "P2PKH / P2STR / P2SH-P2WPKH / P2WPKH"]
 ["script": "HASH OP"]
 ["tx": "xxxx"]
-["id:"xxxx"]
 ["block":"xxxx target when open or close channel"]
 ["hex": "xxxxx"]
 },
