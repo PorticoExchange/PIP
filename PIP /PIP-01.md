@@ -16,6 +16,10 @@ In the Exchange we use Taproot application for accelerate transaction between pe
 
 - `tx`: transaction on timechain
 
+# Proof of concept
+
+[Demo and PoC of Portico](https://github.com/PorticoExchange/Portico-Swap)
+
 # How works
 
 In this example below show how works our protocol in JSON
@@ -30,4 +34,5 @@ In this example below show how works our protocol in JSON
 ["block":"xxxx target when open or close channel"]
 ["hex": "xxxxx"]
 },
+
 
