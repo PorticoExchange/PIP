@@ -5,7 +5,7 @@ PIP stand for Portico Improvement Proposal. They exist to document what MUST, wh
 
 - [PIP-01: HTLC and Atomic Swap principle](https://github.com/PorticoExchange/PIP/blob/main/PIP%20/PIP-01.md)
 
-- PIP-02: Sidechains (Liquid)
+- [PIP-02: Sidechains (Liquid)](https://github.com/PorticoExchange/PIP/blob/main/PIP%20/PIP-02.md)
 
 - PIP-03: OP_RETURN layers (RGB and Omnibolt)
 
