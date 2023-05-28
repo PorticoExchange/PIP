@@ -31,6 +31,7 @@ In this example below show how works our protocol in JSON
 ["output type": "P2PKH / P2STR / P2SH-P2WPKH / P2WPKH"]
 ["script": "HASH OP"]
 ["tx": "xxxx"]
+["locktime": "xxxx"]
 ["block":"xxxx target when open or close channel"]
 ["hex": "xxxxx"]
 },
