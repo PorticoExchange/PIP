@@ -52,7 +52,7 @@ In the example below we'll show how works this input and output when make 'swap'
 "vin": [
 {
 "txid":
-"vout:
+"vout":
 "asset": {
 "asm":
 "hex":
