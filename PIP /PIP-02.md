@@ -1,4 +1,4 @@
-# PIP-02: Sidechains (Liquid)
+# PIP-02: Sidechains (Liquid and Sequentia)
 
 `optional`  `draft` `author:22388oo`
 
@@ -10,7 +10,7 @@ Elements is an open source, sidechain-capable blockchain platform, providing acc
 
 Having L-BTC support on Portico allow HTLCs more robust and private due confidential transaction and high reputation around Liquid Network
 
-## Example
+## Example for Liquid
 
 In the example below we'll show how works this input and output when make 'swap' with pegin or pegout 
 
@@ -34,3 +34,17 @@ In the example below we'll show how works this input and output when make 'swap'
       "hex": "1600144e4f612e206ec2a27cd0818630bb3304526cc56a"
     },
 
+
+## Example for Sequentia
+
+```json
+
+{
+"txid":
+"hash":
+"wtxid"
+"version":
+"size":
+"vsize":
+"weight"
+"locktime":
