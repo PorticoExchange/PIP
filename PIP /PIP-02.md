@@ -12,7 +12,7 @@ Having L-BTC support on Portico allow HTLCs more robust and private due confiden
 
 ## Example for Liquid
 
-In the example below we'll show how works this input and output when make 'swap' with pegin or pegout 
+In the example below we'll show how works this input and output when make 'swap' with pegin
 
 ```json
 {
@@ -33,12 +33,13 @@ In the example below we'll show how works this input and output when make 'swap'
       "asm": "00144e4f612e206ec2a27cd0818630bb3304526cc56a",
       "hex": "1600144e4f612e206ec2a27cd0818630bb3304526cc56a"
     },
-
+```
 
 ## Example for Sequentia
 
-```json
+In the example below we'll show how works this input and output when make 'swap' with SEQ tokens
 
+```json
 {
 "txid":
 "hash":
@@ -48,3 +49,13 @@ In the example below we'll show how works this input and output when make 'swap'
 "vsize":
 "weight"
 "locktime":
+"vin": [
+{
+"txid":
+"vout:
+"asset": {
+"asm":
+"hex":
+},
+```
+
