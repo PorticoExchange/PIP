@@ -32,7 +32,3 @@ PIP stand for Portico Improvement Proposal. They exist to document what MUST, wh
 # Contribution
 
 Any people can make new proposal. Only open PR
-
-# License
-
-MIT and Public Domain
