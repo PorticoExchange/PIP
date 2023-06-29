@@ -14,7 +14,21 @@ Both the protocol use OP_RETURN and commit transactions for allow mint, send, re
 
 Both layers are compatible with Atomic swap and submarine swap
 
-## Example
+## Example with RGB
 
 
 ```json
+"input":"xxx"
+"output":"xxxx"
+"op":"xxxx"
+"state":"xxxx"
+"locktime":"xxxx"
+```
+
+# Example with Omnibolt
+
+```json
+"input":"xxx"
+"ouput":"xxx"
+"op":"xxx"
+"locktime":"xxx"
