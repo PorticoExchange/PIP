@@ -1,4 +1,4 @@
-# PIP-03: Taproot layers (Taproot Assets and RGB)
+# PIP-04: Taproot layers (Taproot Assets and RGB)
 
 `optional`  `draft` `author:22388oo`
 
