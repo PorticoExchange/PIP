@@ -25,7 +25,7 @@ Both layers are compatible with Atomic swap and submarine swap
 "locktime":"xxxx"
 ```
 
-# Example with Omnibolt
+## Example with Omnibolt
 
 ```json
 "input":"xxx"
