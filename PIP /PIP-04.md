@@ -13,3 +13,7 @@ RGB is a scalable & confidential smart contracts system for Bitcoin & lightning 
 Both the protocol use Taproot nd commit transactions for allow mint, send, receive using UTXO also as complementary
 
 Both layers are compatible with Atomic swap and submarine swaps
+
+## Exmple for Taproot Assets
+
+## Example for RGB
