@@ -16,4 +16,20 @@ Both layers are compatible with Atomic swap and submarine swaps
 
 ## Exmple for Taproot Assets
 
+```json
+"input":"xxx"
+"ouput":"xxx"
+"asset":"xxx"
+"utxo":"xxx"
+"script":"xxxx"
+```
+
 ## Example for RGB
+
+```json
+"input":"xxx"
+"ouput":"xxx"
+"asset":"xxx"
+"utxo":"xxx"
+"script":"xxxx"
+"op_return":"xxx"
