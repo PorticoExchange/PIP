@@ -11,7 +11,7 @@ PIP stand for Portico Improvement Proposal. They exist to document what MUST, wh
 
 - [ PIP-04: Taproot layers  (RGB and Taproot Assets)](https://github.com/PorticoExchange/PIP/blob/main/PIP%20/PIP-04.md)
 
-- PIP-05: Core Lightning as motto
+- [PIP-05: Core Lightning as motto](https://github.com/PorticoExchange/PIP/blob/main/PIP%20/PIP-05.md)
 
 - PIP-06: Drivechains 
 
