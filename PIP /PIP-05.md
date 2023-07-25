@@ -2,3 +2,6 @@
 
 `optional`  `draft` `author:22388oo`
 
+## Why Core Lightning?
+
+## Implementation
