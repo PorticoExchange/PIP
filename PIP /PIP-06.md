@@ -4,7 +4,7 @@
 
 ## What is Drivechains?
 
-Drivechain allows Bitcoin to create, delete, send BTC to, and receive BTC from “Layer-2”s called “sidechains”. Sidechains are Altcoins that lack a native “coin” – instead, pre-existing coins [from a different blockchain] must first be sent over.
+Drivechain allows Bitcoin to create, delete, send BTC to, and receive BTC from “Layer-2”s called “sidechains”. Sidechains are Altcoins that lack a native “coin” – instead, pre-existing coins from a different blockchain must first be sent over.
 
 Once on a sidechain, coins can change hands an unlimited number of times, and in an unlimited number of new ways. Thus, BTC-owners can opt-in to new features or tradeoffs. Meanwhile, the Bitcoiners who don’t opt-in, never need to care what any sidechain is doing.
 
