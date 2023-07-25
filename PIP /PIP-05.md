@@ -10,6 +10,6 @@ Using "Core Lightning" as a motto might imply a focus on the fundamental princip
 
 ## Implementation
 
-       HTLC stands for Hash Time-Locked Contracts, which is a critical component of the Lightning Network. HTLCs ensure secure and trustless transactions within the Lightning Network. They work by using cryptographic hashes and time locks to enable conditional payments, where the recipient must produce the correct pre-image of a hash within a specified timeframe to claim the funds.
+HTLC stands for Hash Time-Locked Contracts, which is a critical component of the Lightning Network. HTLCs ensure secure and trustless transactions within the Lightning Network. They work by using cryptographic hashes and time locks to enable conditional payments, where the recipient must produce the correct pre-image of a hash within a specified timeframe to claim the funds.
 
 Using "Potential with HTLC" as a motto could highlight the powerful possibilities that Hash Time-Locked Contracts offer within the Lightning Network. It may emphasize the security, flexibility, and innovative potential of HTLCs in enabling instant, low-cost, and private transactions.
