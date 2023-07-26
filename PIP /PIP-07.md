@@ -1,4 +1,4 @@
-# PIP-06: Drivechains
+# PIP-07: Softchains/Statechains/Spacechains
 
 `optional`  `draft` `author:22388oo`
 
