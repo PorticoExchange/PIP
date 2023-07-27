@@ -1,4 +1,4 @@
-# PIP-10: DLCs
+# PIP-11: DLCs
 
 `optional`  `draft` `author:22388oo`
 
