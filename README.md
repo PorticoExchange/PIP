@@ -7,7 +7,7 @@ PIP stand for Portico Improvement Proposal. They exist to document what MUST, wh
 
 - [PIP-02: Sidechains (Liquid and Sequentia)](https://github.com/PorticoExchange/PIP/blob/main/PIP%20/PIP-02.md)
 
-- [PIP-03: OP_RETURN layers (RGB and Omnibolt)](https://github.com/PorticoExchange/PIP/blob/main/PIP%20/PIP-03.md)
+- [PIP-03: OP_RETURN layers (RGB)](https://github.com/PorticoExchange/PIP/blob/main/PIP%20/PIP-03.md)
 
 - [ PIP-04: Taproot layers  (RGB and Taproot Assets)](https://github.com/PorticoExchange/PIP/blob/main/PIP%20/PIP-04.md)
 
